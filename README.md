@@ -8,7 +8,8 @@
 
 ## Changes made to Index.html:
 * changed div class="header" to < header >
-* added <nav> to list
+* changed title to "Horiseon Company" 
+* added < nav > to list
 * changed div class="content" to < content >
 * changed individual div ids to div class="content-divider"
 * changed div class="benefits" to < aside >
