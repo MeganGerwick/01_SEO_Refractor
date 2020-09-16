@@ -9,11 +9,11 @@
 ## Changes made to Index.html:
 * changed div class="header" to < header >
 * added <nav> to list
-* changed div class="content" to <content>
+* changed div class="content" to < content >
 * changed individual div ids to div class="content-divider"
-* changed div class="benefits" to <aside>
+* changed div class="benefits" to < aside >
 * changed individual div class="benefit-lead, brand, cost" to more general class="benefit"
-* changed div class="footer" to <footer>
+* changed div class="footer" to < footer >
 * added alt attributes to all image files
 * removed unnecessary ID elements
 
